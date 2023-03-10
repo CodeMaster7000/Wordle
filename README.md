@@ -1,3 +1,3 @@
-# Bash Wordle
+# Wordle (Bash)
 
-An implementation of [NYT Wordle](https://www.nytimes.com/games/wordle/index.html) in bash.
+An implementation of [NYT Wordle](https://www.nytimes.com/games/wordle/index.html) in Bash.
